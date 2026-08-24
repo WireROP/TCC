@@ -4,11 +4,10 @@
 
 <h2>Author:Cesar Versatti</h2>
 
-<img src="profile/qr-code" alt="HackingTool" width="600">
 
-<img src="profile/qr-code.svg" alt="HackingTool" width="600">
+<img src="profile/qr-code.svg" alt="HackingTool" width="400">
 
-<img src="profile/qr-code.png" alt="HackingTool" width="500">
+<img src="profile/qr-code.png" alt="HackingTool" width="100">
 
 <p><b></b></p>
 
