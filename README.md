@@ -4,7 +4,7 @@
 
 <h2>Author:Cesar Versatti</h2>
 
-<img src="profile/logo.svg" alt="HackingTool" width="600">
+<img src="profile/qr-code" alt="HackingTool" width="600">
 
 <p><b></b></p>
 
