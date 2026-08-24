@@ -7,7 +7,7 @@
 
 <img src="profile/qr-code.svg" alt="HackingTool" width="400">
 
-<img src="profile/qr-code.png" alt="HackingTool" width="100">
+
 
 <p><b></b></p>
 
