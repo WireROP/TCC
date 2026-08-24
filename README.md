@@ -6,6 +6,10 @@
 
 <img src="profile/qr-code" alt="HackingTool" width="600">
 
+<img src="profile/qr-code.svg" alt="HackingTool" width="600">
+
+<img src="profile/qr-code.png" alt="HackingTool" width="500">
+
 <p><b></b></p>
 
 
