@@ -12,8 +12,8 @@
 
 
 <img src="profile/qr-code.svg" alt="HackingTool" width="400">
-
-<img src="profile/book.tcc.jpg" alt="HackingTool" width="100">
+</br>
+<img src="profile/book.tcc.jpg" alt="HackingTool" width="300">
 
 
 
